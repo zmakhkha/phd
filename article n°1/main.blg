@@ -6,47 +6,53 @@ A level-1 auxiliary file: parts/1-introduction.aux
 Reallocating 'name_of_file' (item size: 1) to 22 items.
 A level-1 auxiliary file: parts/2-attention.aux
 Reallocating 'name_of_file' (item size: 1) to 6 items.
-The style file: alpha.bst
+The style file: abbrv.bst
 Reallocating 'name_of_file' (item size: 1) to 7 items.
 Database file #1: sample.bib
-You've used 1 entry,
-            2543 wiz_defined-function locations,
-            566 strings with 4671 characters,
-and the built_in function-call counts, 349 in all, are:
-= -- 32
-> -- 19
+Warning--empty journal in ELBAZINI
+Warning--empty journal in Chesné_Piedfer
+Warning--empty year in Chesné_Piedfer
+Warning--empty journal in Ufapec_van
+Warning--empty year in Ufapec_van
+You've used 5 entries,
+            2118 wiz_defined-function locations,
+            527 strings with 4688 characters,
+and the built_in function-call counts, 1375 in all, are:
+= -- 122
+> -- 75
 < -- 0
-+ -- 6
-- -- 6
-* -- 23
-:= -- 70
-add.period$ -- 3
-call.type$ -- 1
-change.case$ -- 6
-chr.to.int$ -- 1
-cite$ -- 1
-duplicate$ -- 13
-empty$ -- 21
-format.name$ -- 7
-if$ -- 65
-int.to.chr$ -- 1
-int.to.str$ -- 0
-missing$ -- 1
-newline$ -- 8
-num.names$ -- 3
-pop$ -- 5
++ -- 29
+- -- 24
+* -- 99
+:= -- 250
+add.period$ -- 13
+call.type$ -- 5
+change.case$ -- 27
+chr.to.int$ -- 0
+cite$ -- 10
+duplicate$ -- 51
+empty$ -- 98
+format.name$ -- 24
+if$ -- 266
+int.to.chr$ -- 0
+int.to.str$ -- 5
+missing$ -- 5
+newline$ -- 26
+num.names$ -- 10
+pop$ -- 35
 preamble$ -- 1
-purify$ -- 7
+purify$ -- 22
 quote$ -- 0
-skip$ -- 14
+skip$ -- 36
 stack$ -- 0
-substring$ -- 7
-swap$ -- 1
+substring$ -- 52
+swap$ -- 2
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 8
-warning$ -- 0
-while$ -- 3
-width$ -- 2
-write$ -- 14
+type$ -- 20
+warning$ -- 5
+while$ -- 11
+width$ -- 6
+write$ -- 46
+(There were 5 warnings)

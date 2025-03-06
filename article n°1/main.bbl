@@ -1,9 +1,30 @@
-\begin{thebibliography}{PP23}
+\begin{thebibliography}{1}
 
-\bibitem[PP23]{Pinelli_Portrat_2023}
-Mathieu Pinelli and Sophie Portrat.
+\bibitem{ELBAZINI}
+E.~Abdelilah and B.~Ibrahim.
+\newblock La pratique évaluative entre la subjectivité et l’objectivité
+  des enseignants-évaluateurs : cas du cycle secondaire.
+\newblock Feb. 2024.
+
+\bibitem{Chesné_Piedfer}
+J.-F. Chesné, L.~Piedfer-Queney, and F.~Jeanneau.
+\newblock Limites et biais de l’évaluation dans le cadre scolaire: synthèse
+  des résultats de recherche.
+
+\bibitem{D’Mello_Dieterle_Duckworth_2017}
+S.~D’Mello, E.~Dieterle, and A.~Duckworth.
+\newblock Advanced, analytic, automated (aaa) measurement of engagement during
+  learning.
+\newblock {\em Educational Psychologist}, 52(2):104–123, Apr. 2017.
+
+\bibitem{Pinelli_Portrat_2023}
+M.~Pinelli and S.~Portrat.
 \newblock Étude de la validité d’une mesure de l’attention
   auto-rapportée en milieu scolaire.
-\newblock {\em Recherches & éducations}, May 2023.
+\newblock {\em Recherches \& éducations}, May 2023.
+
+\bibitem{Ufapec_van}
+A.~Ufapec and J.-L. van Kempen.
+\newblock Comment favoriser l’objectivite en matiere d’evaluation ?
 
 \end{thebibliography}
